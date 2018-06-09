@@ -1,4 +1,4 @@
-###### actividad-bootstrap-photogallery
+﻿###### actividad-bootstrap-photogallery
 
 # Actividad - Álbum de Fotos
 
@@ -34,3 +34,5 @@ Deberás crear un **álbum fotográfico** construido con [Bootstrap](http://getb
 - Luego debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la [Plataforma Empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
 Mucha suerte!
+
+Link repositorio Github: https://github.com/isabelmunoz/actividad7-semana4
