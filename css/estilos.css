@@ -1,0 +1,80 @@
+nav a img{
+	width: 4%;
+    position: relative;
+    left: 20px;
+}
+.navbar-nav{
+	position: relative;
+	left: 300px;
+}
+.jumbotron{
+	background-image: url(../images/bg2.jpg);
+	text-align: center;
+}
+.jumbotron h1,p{
+	color: white;
+}
+.jumbotron p{
+	width: 60%;
+	margin-left: 21%;
+}
+.button1 a{
+	background-color: white;
+	border: none;
+	color: black;
+	margin-left: 10px;
+} 
+
+.card{
+	width: 30%;
+	border: 10px solid #DFDFDF;
+	border-radius: 5%;
+	float: left;
+	margin: 10px 5px 10pX 30px;
+}
+.card-title{
+	text-align: center;
+}
+.card-text{
+	text-align: center;
+	color: #414040;
+	font-size: 0.8rem;
+}
+
+.card-img-top{
+	border-radius: 4% 4% 0 0;
+}
+.btn{
+	background-color: #f2eeee;
+	border: 1px solid #DFDFDF;
+	color: black;
+	margin-left: 38%;
+}
+
+.img_footer{
+	width: 3%;
+    position: relative;
+    left: 48%;
+    margin:5px;
+    border: 5px solid white;
+
+}
+
+.info{
+	text-align: center;
+	background-color: #DFDFDF;
+	height: 70px;
+	border: 1px solid #C4C4C4;
+	
+}
+
+.info h6, a{
+	padding-top: 20px;
+
+}
+hr{
+	position: relative;
+	top: 1145px;
+
+
+}
